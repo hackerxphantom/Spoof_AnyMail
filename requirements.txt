@@ -1,4 +1,0 @@
-pkg update -y
-pkg upgrade -y
-pkg install python3 
-pip install requests
