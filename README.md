@@ -43,6 +43,7 @@ Spoof_AnyMail is a bash && Python based script which is officially made for term
 ## Language is used to Make this tool
 
 •Bash Script
+       
 •Python3
  
  ### <p align="center">Commands to run tool in ur Termux
