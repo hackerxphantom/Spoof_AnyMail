@@ -68,7 +68,7 @@ cd Spoof_AnyMail
 ls
 ```
 ```bash
-bash setup
+bash setup.sh
 ```
 ```bash
 python3 spoof_anymail.py
