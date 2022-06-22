@@ -23,7 +23,7 @@ Note : Tool is Made of Educational Purposes only.
   
 ## About HXP-DUCKY
  
-Spoof_AnyMail is a bash based script which is officially made for termux && linux users and from this tool you can Send Any Fake Mail Using Anyone Mail. This tool works on both rooted Android device and Non-rooted Android device. 
+Spoof_AnyMail is a bash && Python based script which is officially made for termux && linux users and from this tool you can Send Any Fake Mail Using Anyone Mail. This tool works on both rooted Android device and Non-rooted Android device. 
   
   
   
@@ -43,6 +43,7 @@ Spoof_AnyMail is a bash based script which is officially made for termux && linu
 ## Language is used to Make this tool
 
 •Bash Script
+•Python3
  
  ### <p align="center">Commands to run tool in ur Termux
 ***
